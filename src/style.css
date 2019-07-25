@@ -1,0 +1,33 @@
+body {
+    background-color: lightgrey;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+.mainBlock {
+    width: 50%;
+    margin: auto;
+}
+
+.search_input {
+    height: 2rem;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 1.25rem;
+    margin: auto;
+    text-align: center;
+}
+
+.outputBlock {
+    background-color: white;
+    padding: 0.35rem;
+    margin: 0.5rem;
+    border: thin solid black;
+}
+
+.author {
+    text-align: right;
+    color: brown;
+}
+
+.word {
+    font-size: 2rem;
+}
